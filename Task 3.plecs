@@ -28,7 +28,7 @@ Plecs {
   AlgebraicLoopWithStateMachineMsg "3"
   AssertionAction "1"
   FixedPointDatatypeOverride "1"
-  InitializationCommands "spesifikasi\n"
+  InitializationCommands "Task3\n"
   InitialState  "1"
   SystemState   ""
   TaskingMode   "1"
@@ -53,7 +53,7 @@ Plecs {
   ScriptsDialogGeometry "[754 385 446 244]"
   ScriptsDialogSplitterPos "100"
   Schematic {
-    Location      [0, 23; 1920, 989]
+    Location      [0, 27; 1920, 993]
     ZoomFactor    1.49863
     SliderPosition [573, 89]
     ShowBrowser   off
